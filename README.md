@@ -1,7 +1,9 @@
 # Pick Your Durian 榴莲质量评估工具
 榴莲品质评估工具是一个基于图像处理和计算几何特征的自动化解决方案，用于评估榴莲的品质。该工具使用图像分割技术（Segment-Anything）来对榴莲进行分割，然后计算其离心率和相对密度，以评估榴莲的形状和刺的密度。
-![原始榴莲](./1.jpg) ![检测结果](./r1.jpg)
-
+<div>
+    <img src="1.jpg" alt="Image 1" width="300" />
+    <img src="r1.jpg" alt="Image 2" width="300" />
+</div>
 
 ## 功能
 * 自动分割榴莲图像
